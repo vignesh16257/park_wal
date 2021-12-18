@@ -1,0 +1,3 @@
+str="ram"
+
+print(str)
